@@ -7,11 +7,8 @@ Sono uno sviluppatore e amo scrivere codice. 💻
 ### 🚀 Cosa so fare?
 
 <img src="https://skillicons.dev/icons?i=c,java,python,typescript,javascript,html,css,matlab"/>
-<br />
 <img src="https://skillicons.dev/icons?i=mysql,sqlite,mongodb"/>
-<br />
 <img src="https://skillicons.dev/icons?i=nodejs,react,docker,postman,vite"/>
-<br />
 
 ---
 
